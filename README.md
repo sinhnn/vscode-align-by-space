@@ -10,6 +10,6 @@ https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-
 ## Screenshot
 
 <p align="center">
-<img src="screenshot/Screenshot-1.png" width="240" /> 
-<img src="screenshot/Screenshot-2.png" width="240" /> 
+<img src="screenshot/Screenshot-1.png" width="480" /> 
+<img src="screenshot/Screenshot-2.png" width="480" /> 
 </p>
