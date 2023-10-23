@@ -9,7 +9,7 @@ https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-
 
 ## Screenshot
 
-<center>
-![Screenshot](./screenshot/Screenshot-1.png)
-![Screenshot](./screenshot/Screenshot-2.png)
-</center>
+<p align="center">
+<img src="screenshot/Screenshot-1.png" width="240" /> 
+<img src="screenshot/Screenshot-2.png" width="240" /> 
+</p>
